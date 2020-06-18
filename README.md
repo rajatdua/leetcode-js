@@ -6,6 +6,7 @@ JS only solutions to leetcode problems.
 |Number|Problem Name|
 |---|---|
 |1|Two Sum|
+|26|Remove Duplicates From Sorted Array|
 
 ## Medium
 
