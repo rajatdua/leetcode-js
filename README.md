@@ -3,11 +3,17 @@ JS only solutions to leetcode problems.
 
 ## Easy
 
-1. Two Sum
+|Number|Problem Name|
+|---|---|
+|1|Two Sum|
 
 ## Medium
 
-2. Add Two Numbers
-647. Palindromic Substring
+|Number|Problem Name|
+|---|---|
+|1|Two Sum|
+|2|Add Two Numbers|
+|647|Palindromic Substring|
+
 
 ## Hard
