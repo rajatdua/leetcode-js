@@ -7,6 +7,7 @@ JS only solutions to leetcode problems.
 
 ## Medium
 
+2. Add Two Numbers
 647. Palindromic Substring
 
 ## Hard
