@@ -1,10 +1,12 @@
 # leetcode-js
 JS only solutions to leetcode problems.
 
-# Easy
+## Easy
 
-# Medium
+1. Two Sum
+
+## Medium
 
 647. Palindromic Substring
 
-# Hard
+## Hard
