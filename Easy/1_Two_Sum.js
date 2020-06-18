@@ -9,7 +9,7 @@ const twoSumBrute = function (nums, target) {
   for(let i = 0; i < length; i++){
     for(let j = 0; j < length; j++){
       if(nums[i] + nums[j] === target){
-        return [nums[i], nums[j]];
+        return [i, j];
       }
     }
   }
@@ -29,7 +29,8 @@ const twoSum = function(nums, target) {
   for(let i = 0; i < length; i++){
     let complement = target - nums[i];
     if(complementMap.has(complement)){
-      return [ nums[i], nums[complementMap.get(complement)]];
+      // return [ nums[i], nums[complementMap.get(complement)]];
+      return [ i, complementMap.get(complement)];
     }
     complementMap.set(nums[i], i);
   }
