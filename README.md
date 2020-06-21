@@ -11,6 +11,8 @@ JS only solutions to leetcode problems.
 |26|Remove Duplicates From Sorted Array|
 |27|Remove Element|
 |28|Implement strStr|
+|88|Merge Sorted Array|
+|1480|Running Sum Of 1D Array|
 
 ## Medium
 
