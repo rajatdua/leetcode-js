@@ -7,7 +7,10 @@ JS only solutions to leetcode problems.
 |---|---|
 |1|Two Sum|
 |9|Palindrome Number|
+|21|Merge Two Sorted Lists|
 |26|Remove Duplicates From Sorted Array|
+|27|Remove Element|
+|28|Implement strStr|
 
 ## Medium
 
