@@ -12,6 +12,7 @@ JS only solutions to leetcode problems.
 |27|Remove Element|
 |28|Implement strStr|
 |88|Merge Sorted Array|
+|771|Jewels And Stones|
 |1480|Running Sum Of 1D Array|
 
 ## Medium
