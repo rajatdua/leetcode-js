@@ -13,6 +13,7 @@ JS only solutions to leetcode problems.
 |28|Implement strStr|
 |88|Merge Sorted Array|
 |771|Jewels And Stones|
+|1365|How Many Numbers Are Smaller Than The Current Number|
 |1480|Running Sum Of 1D Array|
 
 ## Medium
