@@ -13,7 +13,7 @@ JS only solutions to leetcode problems.
 |28|Implement strStr|
 |88|Merge Sorted Array|
 |771|Jewels And Stones|
-|832|Flipping an Image|o|
+|832|Flipping an Image|
 |1108|Defanging An IP Address|
 |1221|Split A String In Balanced Strings|
 |1281|Subtract The Products And Sum Of Digits Of An Integer|

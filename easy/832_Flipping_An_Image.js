@@ -28,18 +28,37 @@ const flipAndInvertImage = function(A) {
   return getInverted(reversed);
 };
 
-//TODO: Implement Reverse And Invert
 
 /**
  * @param {number[][]} A
  * @return {number[][]}
  */
-const getReversed = (A) => A;
+const getReversed = (A) => {
+  for(let i = 0; i < A.length; i++) {
+    let start = 0, end = A[i].length - 1;
+    while (start < end)
+    {
+      let temp = A[i][start];
+      A[i][start] = A[i][end];
+      A[i][end] = temp;
+      start++;
+      end--;
+    }
+  }
+  return A;
+};
 /**
  * @param {number[][]} A
  * @return {number[][]}
  */
-const getInverted = (A) => A;
+const getInverted = (A) => {
+  for(let i = 0; i < A.length; i++){
+    for(let j = 0; j < A[i].length; j++){
+      A[i][j] = A[i][j] ^ 1;
+    }
+  }
+  return A;
+};
 
 
 console.log(flipAndInvertImage([
