@@ -12,6 +12,8 @@ JS only solutions to leetcode problems.
 |27|Remove Element|
 |28|Implement strStr|
 |88|Merge Sorted Array|
+|169|Majority Element|
+|412|Fizz Buzz|
 |771|Jewels And Stones|
 |832|Flipping an Image|
 |1108|Defanging An IP Address|
@@ -29,7 +31,26 @@ JS only solutions to leetcode problems.
 |3|Longest Substring Without Repeating Characters|
 |11|Container With Most Water|
 |15|3 Sum|
+|238|Product Of Array Except Self|
 |647|Palindromic Substring|
 
 
 ## Hard
+
+## Utilities
+
+1. List Node
+    ```js
+   const { ListNode } = require('../utils');
+   const l1 = new ListNode(1);
+    ```
+2. Stack
+    ```js
+    const { Stack } = require('../utils');
+    let instance = new Stack();
+     // instance.push(1);
+     // instance.pop();
+     // instance.isEmpty();
+     // instance.peek();
+     // instance.printStack();
+   ```
