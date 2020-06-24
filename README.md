@@ -17,6 +17,7 @@ JS only solutions to leetcode problems.
 |1108|Defanging An IP Address|
 |1221|Split A String In Balanced Strings|
 |1281|Subtract The Products And Sum Of Digits Of An Integer|
+|1351|Count Negative Numbers In A Sorted Matrix|
 |1365|How Many Numbers Are Smaller Than The Current Number|
 |1480|Running Sum Of 1D Array|
 
