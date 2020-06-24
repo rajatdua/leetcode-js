@@ -16,7 +16,7 @@ class Stack {
   }
   peek() {
     // return the top most element from the stack
-    // but does'nt delete it.
+    // but doesn't delete it.
     return this.items[this.items.length - 1];
   }
   isEmpty() {
@@ -28,6 +28,9 @@ class Stack {
     for (let i = 0; i < this.items.length; i++)
       str += this.items[i] + " ";
     return str;
+  }
+  size(){
+    return this.items.length;
   }
 }
 
