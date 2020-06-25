@@ -22,6 +22,7 @@ JS only solutions to leetcode problems.
 |1351|Count Negative Numbers In A Sorted Matrix|
 |1365|How Many Numbers Are Smaller Than The Current Number|
 |1480|Running Sum Of 1D Array|
+|1486|XOR Operation In An Array|
 
 ## Medium
 
