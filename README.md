@@ -15,6 +15,7 @@ JS only solutions to leetcode problems.
 |169|Majority Element|
 |404|Sum Of Left Leaves|
 |412|Fizz Buzz|
+|276|Number Complement|
 |771|Jewels And Stones|
 |832|Flipping an Image|
 |1108|Defanging An IP Address|
