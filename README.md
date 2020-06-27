@@ -13,6 +13,7 @@ JS only solutions to leetcode problems.
 |28|Implement strStr|
 |88|Merge Sorted Array|
 |169|Majority Element|
+|404|Sum Of Left Leaves|
 |412|Fizz Buzz|
 |771|Jewels And Stones|
 |832|Flipping an Image|
