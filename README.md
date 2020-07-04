@@ -16,6 +16,7 @@ JS only solutions to leetcode problems.
 |404|Sum Of Left Leaves|
 |412|Fizz Buzz|
 |276|Number Complement|
+|728|Self Dividing Number|
 |771|Jewels And Stones|
 |832|Flipping an Image|
 |1108|Defanging An IP Address|
