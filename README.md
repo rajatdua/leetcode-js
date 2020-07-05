@@ -18,7 +18,8 @@ JS only solutions to leetcode problems.
 |276|Number Complement|
 |728|Self Dividing Number|
 |771|Jewels And Stones|
-|832|Flipping an Image|
+|832|Flipping An Image|
+|977|Squares Of A Sorted Array|
 |1108|Defanging An IP Address|
 |1221|Split A String In Balanced Strings|
 |1281|Subtract The Products And Sum Of Digits Of An Integer|
