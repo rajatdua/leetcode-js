@@ -21,6 +21,7 @@ JS only solutions to leetcode problems.
 |832|Flipping An Image|
 |977|Squares Of A Sorted Array|
 |1108|Defanging An IP Address|
+|1185|Day Of The Week|
 |1221|Split A String In Balanced Strings|
 |1281|Subtract The Products And Sum Of Digits Of An Integer|
 |1351|Count Negative Numbers In A Sorted Matrix|
