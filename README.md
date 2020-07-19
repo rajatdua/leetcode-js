@@ -26,6 +26,7 @@ JS only solutions to leetcode problems.
 |1281|Subtract The Products And Sum Of Digits Of An Integer|
 |1351|Count Negative Numbers In A Sorted Matrix|
 |1365|How Many Numbers Are Smaller Than The Current Number|
+|1417|Reformat The String|
 |1480|Running Sum Of 1D Array|
 |1486|XOR Operation In An Array|
 
