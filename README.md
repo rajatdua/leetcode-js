@@ -32,7 +32,7 @@ JS only solutions to leetcode problems.
 
 ## Medium
 
-|Number|Problem Name|Pending
+|Number|Problem Name|Done
 |---|---|---|
 |2|Add Two Numbers|✅
 |3|Longest Substring Without Repeating Characters|✅
@@ -47,7 +47,7 @@ JS only solutions to leetcode problems.
 
 ## Hard
 
-|Number|Problem Name|Pending
+|Number|Problem Name|Done
 |---|---|---|
 |51|N-Queens|⚠
 
