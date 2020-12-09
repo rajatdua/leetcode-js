@@ -3,6 +3,8 @@
  * @param {number} target
  * @return {number[]}
  */
+
+// time - o(n) and space - o(1)
 const searchRange = function(nums, target) {
   let result  = [-1, -1];
 
