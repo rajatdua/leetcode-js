@@ -29,6 +29,7 @@ JS only solutions to leetcode problems.
 |1417|Reformat The String|✅
 |1480|Running Sum Of 1D Array|✅
 |1486|XOR Operation In An Array|✅
+|1748|Sum Of Unique Elements|✅
 
 ## Medium
 
