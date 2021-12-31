@@ -52,6 +52,7 @@ JS only solutions to leetcode problems.
 
 |Number|Problem Name|Done
 |---|---|---|
+|4|Median Of Two Sorted Arrays|✅
 |51|N-Queens|⚠
 
 ## Utilities
