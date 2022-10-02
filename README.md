@@ -42,6 +42,7 @@ JS only solutions to leetcode problems.
 | 15     | 3 Sum                                                  | ✅   |
 | 31     | Next Permutation                                       | ✅   |
 | 34     | Find Fist And Last Position Of Element In Sorted Array | ✅   |
+| 78     | Subsets                                                | ✅   |
 | 162    | Find Peak Element                                      | ✅   |
 | 238    | Product Of Array Except Self                           | ✅   |
 | 647    | Palindromic Substring                                  | ✅   |
